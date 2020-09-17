@@ -16,6 +16,7 @@ public class HelloWorld {
      */
     public static void main(String[] args) {
         System.out.println("This is a test submission for Lab 01");
+        System.out.println("Test123");
     }
     
 }
